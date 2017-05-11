@@ -4,9 +4,7 @@
  * Predicate Calculus Syntax to LIST Syntax
  * 
  * Prepared by : Hesham Saud Alassaf
- * University ID : 201300572
  * Course Name : Fundamentals of Artificial Intelligence.
- * Prepared for : Mr.Mohammed A. Jabaiti. 
  * 
  */
 
